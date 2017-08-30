@@ -1,8 +1,8 @@
-# Lang file, change any names you want that are in "quotations".
-# If any items are missing here just add them.
-# If item(s) cause any errors you can just remove them.
+# 语言文件, 替换任何你想替换的在"引号"中的名字.
+# 如果没有某些物品就在这里添加它.
+# 如果物品导致了任何错误，就在这里移除它.
 
-# Displays amount of items in the stack, set to "" to disable
+# 显示物品堆叠的数量, 设置为 "" 来禁用.
 stack-count: "&r x%amount%"
 item-names:
   STONE:
