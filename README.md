@@ -1,2 +1,2 @@
 # CraftBukkitPlugin-zh_CN-config
-A Chinese localization config file for bukkit plugins
+Some Chinese localization config files for bukkit plugins
