@@ -642,176 +642,176 @@ item-names:
   WHEAT:
     0: "Wheat"
   BREAD:
-    0: "Bread"
+    0: "面包"
   LEATHER_HELMET:
-    0: "Leather Cap"
+    0: "皮革帽子"
   LEATHER_CHESTPLATE:
-    0: "Leather Tunic"
+    0: "皮革外套"
   LEATHER_LEGGINGS:
-    0: "Leather Pants"
+    0: "皮革裤子"
   LEATHER_BOOTS:
-    0: "Leather Boots"
+    0: "皮革靴子"
   CHAINMAIL_HELMET:
-    0: "Chain Helmet"
+    0: "锁链头盔"
   CHAINMAIL_CHESTPLATE:
-    0: "Chain Chestplate"
+    0: "锁链胸甲"
   CHAINMAIL_LEGGINGS:
-    0: "Chain Leggings"
+    0: "锁链护腿"
   CHAINMAIL_BOOTS:
-    0: "Chain Boots"
+    0: "锁链靴子"
   IRON_HELMET:
-    0: "Iron Helmet"
+    0: "铁头盔"
   IRON_CHESTPLATE:
-    0: "Iron Chestplate"
+    0: "铁胸甲"
   IRON_LEGGINGS:
-    0: "Iron Leggings"
+    0: "铁护腿"
   IRON_BOOTS:
-    0: "Iron Boots"
+    0: "铁靴子"
   DIAMOND_HELMET:
-    0: "Diamond Helmet"
+    0: "钻石头盔"
   DIAMOND_CHESTPLATE:
-    0: "Diamond Chestplate"
+    0: "钻石胸甲"
   DIAMOND_LEGGINGS:
-    0: "Diamond Leggings"
+    0: "钻石护腿"
   DIAMOND_BOOTS:
-    0: "Diamond Boots"
+    0: "钻石靴子"
   GOLD_HELMET:
-    0: "Gold Helmet"
+    0: "金头盔"
   GOLD_CHESTPLATE:
-    0: "Gold Chestplate"
+    0: "金胸甲"
   GOLD_LEGGINGS:
-    0: "Gold Leggings"
+    0: "金护腿"
   GOLD_BOOTS:
-    0: "Gold Boots"
+    0: "金靴子"
   FLINT:
-    0: "Flint"
+    0: "燧石"
   PORK:
-    0: "Raw Porkchop"
+    0: "生猪排"
   GRILLED_PORK:
-    0: "Cooked Porkchop"
+    0: "熟猪排"
   PAINTING:
-    0: "Painting"
+    0: "画"
   GOLDEN_APPLE:
-    0: "Golden Apple"
-    1: "Super Golden Apple"
+    0: "金苹果"
+    1: "附魔金苹果"
   SIGN:
-    0: "Sign"
+    0: "告示牌"
   WOOD_DOOR:
-    0: "Wooden Door"
+    0: "橡木门"
   BUCKET:
-    0: "Empty Bucket"
+    0: "桶"
   WATER_BUCKET:
-    0: "Water Bucket"
+    0: "水桶"
   LAVA_BUCKET:
-    0: "Lava Bucket"
+    0: "岩浆桶"
   MINECART:
-    0: "Minecart"
+    0: "矿车"
   SADDLE:
-    0: "Saddle"
+    0: "鞍"
   IRON_DOOR:
-    0: "Iron Door"
+    0: "铁门"
   REDSTONE:
-    0: "Redstone Dust"
+    0: "红石粉"
   SNOW_BALL:
-    0: "Snowball"
+    0: "雪球"
   BOAT:
-    0: "Oak Boat"
+    0: "橡木船"
   LEATHER:
-    0: "Leather"
+    0: "皮革"
   MILK_BUCKET:
-    0: "Milk Bucket"
+    0: "牛奶"
   CLAY_BRICK:
-    0: "Clay Brick"
+    0: "红砖"
   CLAY_BALL:
-    0: "Clay"
+    0: "粘土"
   SUGAR_CANE:
-    0: "Sugar Cane"
+    0: "甘蔗"
   PAPER:
-    0: "Paper"
+    0: "纸"
   BOOK:
-    0: "Book"
+    0: "书"
   SLIME_BALL:
-    0: "Slimeball"
+    0: "史莱姆球"
   STORAGE_MINECART:
-    0: "Minecart with Chest"
+    0: "运输矿车"
   POWERED_MINECART:
-    0: "Minecart with Furnace"
+    0: "动力矿车"
   EGG:
-    0: "Chicken Egg"
+    0: "鸡蛋"
   COMPASS:
-    0: "Compass"
+    0: "指南针"
   FISHING_ROD:
-    0: "Fishing Rod"
+    0: "鱼竿"
   WATCH:
-    0: "Clock"
+    0: "钟"
   GLOWSTONE_DUST:
-    0: "Glowstone Dust"
+    0: "萤石粉"
   RAW_FISH:
-    0: "Raw Fish"
-    1: "Raw Salmon"
-    2: "Clownfish"
-    3: "Pufferfish"
+    0: "生鱼"
+    1: "生鲑鱼"
+    2: "小丑鱼"
+    3: "河豚"
   COOKED_FISH:
-    0: "Cooked Fish"
+    0: "熟鱼"
   COOKED_FISH:
-    0: "Cooked Salmon"
+    0: "熟鲑鱼"
   INK_SACK:
-    0: "Ink Sac"
-    1: "Rose Red"
-    2: "Cactus Green"
-    3: "Cocoa Beans"
-    4: "Lapis Lazuli"
-    5: "Purple Dye"
-    6: "Cyan Dye"
-    7: "Light Gray Dye"
-    8: "Gray Dye"
-    9: "Pink Dye"
-    10: "Lime Dye"
-    11: "Dandelion Yellow"
-    12: "Light Blue Dye"
-    13: "Magenta Dye"
-    14: "Orange Dye"
-    15: "Bone Meal"
+    0: "墨囊"
+    1: "玫瑰红"
+    2: "仙人掌绿"
+    3: "可可豆"
+    4: "青晶石"
+    5: "紫色染料"
+    6: "青色染料"
+    7: "淡灰色燃料"
+    8: "灰色染料"
+    9: "粉色染料"
+    10: "黄绿色染料"
+    11: "蒲公英黄"
+    12: "淡蓝色染料"
+    13: "品红色染料"
+    14: "橙色染料"
+    15: "骨粉"
   BONE:
-    0: "Bone"
+    0: "骨头"
   SUGAR:
-    0: "Sugar"
+    0: "糖"
   CAKE:
-    0: "Cake"
+    0: "蛋糕"
   DIODE:
-    0: "Redstone Repeater"
+    0: "红石中继器"
   COOKIE:
-    0: "Cookie"
+    0: "曲奇"
   MAP:
-    0: "Map"
+    0: "地图"
   SHEARS:
-    0: "Shears"
+    0: "剪刀"
   MELON:
-    0: "Melon Slice"
+    0: "西瓜"
   PUMPKIN_SEEDS:
-    0: "Pumpkin Seeds"
+    0: "南瓜种子"
   MELON_SEEDS:
-    0: "Melon Seeds"
+    0: "西瓜种子"
   RAW_BEEF:
-    0: "Raw Beef"
+    0: "生牛肉"
   COOKED_BEEF:
-    0: "Steak"
+    0: "牛排"
   RAW_CHICKEN:
-    0: "Raw Chicken"
+    0: "生鸡肉"
   COOKED_CHICKEN:
-    0: "Cooked Chicken"
+    0: "熟鸡肉"
   ROTTEN_FLESH:
-    0: "Rotten Flesh"
+    0: "腐肉"
   ENDER_PEARL:
-    0: "Ender Pearl"
+    0: "末影珍珠"
   BLAZE_ROD:
-    0: "Blaze Rod"
+    0: "烈焰棒"
   GHAST_TEAR:
-    0: "Ghast Tear"
+    0: "恶魂之泪"
   GOLD_NUGGET:
-    0: "Gold Nugget"
+    0: "金粒"
   NETHER_STALK:
-    0: "Nether Wart"
+    0: "地狱疣"
   POTION:
     0: "水瓶"
     16: "粗制的药水"
@@ -843,8 +843,8 @@ item-names:
     8265: "力量药水 (8:00)"
     8233: "力量药水 II (1:30)"
     8297: "力量药水 II (4:00)"
-    8202: "力量药水 (1:30)"
-    8266: "力量药水 (4:00)"
+    8202: "迟缓药水 (1:30)"
+    8266: "迟缓药水 (4:00)"
     8204: "伤害药水"
     8236: "伤害药水 II"
     8205: "水肺药水 (3:00)"
@@ -852,67 +852,67 @@ item-names:
     8206: "隐形药水 (3:00)"
     8270: "隐形药水 (8:00)"
   SPLASH_POTION:
-    0: "Splash Potion"
-    16395: "Splash Potion of Leaping"
-    16427: "Splash Potion of Leaping II"
-    16459: "Extended Splash Potion of Leaping"
-    16385: "Splash Potion of Regeneration"
-    16417: "Splash Potion of Regeneration II"
-    16449: "Extended Splash Potion of Regeneration"
-    16386: "Splash Potion of Swiftness"
-    16418: "Splash Potion of Swiftness II"
-    16450: "Extended Splash Potion of Swiftness"
-    16387: "Splash Potion of Fire Resistance"
-    16419: "Splash Potion of Fire Resistance"
-    16451: "Extended Splash Potion of Fire Resistance"
-    16388: "Splash Potion of Poison"
-    16420: "Splash Potion of Poison II"
-    16452: "Extended Splash Potion of Poison"
-    16389: "Splash Potion of Instant Health"
-    16421: "Splash Potion of Instant Health II"
-    16453: "Splash Potion of Instant Health"
-    16390: "Splash Potion of Night Vision"
-    16422: "Splash Potion of Night Vision"
-    16454: "Extended Splash Potion of Night Vision"
-    16392: "Splash Potion of Weakness"
-    16424: "Splash Potion of Weakness II"
-    16456: "Extended Splash Potion of Weakness"
-    16393: "Splash Potion of Strength"
-    16425: "Splash Potion of Strength II"
-    16457: "Extended Splash Potion of Strength"
-    16394: "Splash Potion of Slowness"
-    16426: "Splash Potion of Slowness II"
-    16458: "Extended Splash Potion of Slowness"
-    16395: "Splash Potion of Leaping"
-    16427: "Splash Potion of Leaping II"
-    16459: "Extended Splash Potion of Leaping"
-    16396: "Splash Potion of Harming"
-    16428: "Splash Potion of Harming II"
-    16460: "Extended Splash Potion of Harming"
-    16397: "Splash Potion of Water Breathing"
-    16429: "Splash Potion of Water Breathing"
-    16461: "Extended Splash Potion of Water Breathing"
-    16398: "Splash Potion of Invisibility"
-    16430: "Splash Potion of Invisibility"
-    16462: "Extended Splash Potion of Invisibility"
+    0: "喷溅型药水"
+    16395: "喷溅型跳跃药水"
+    16427: "喷溅型跳跃药水 II"
+    16459: "持续的喷溅型跳跃药水"
+    16385: "喷溅型再生药水"
+    16417: "喷溅型再生药水 II"
+    16449: "持续的喷溅型再生药水"
+    16386: "喷溅型速度药水"
+    16418: "喷溅型速度药水 II"
+    16450: "持续的喷溅型速度药水"
+    16387: "喷溅型抗火药水"
+    16419: "喷溅型抗火药水"
+    16451: "持续的喷溅型抗火药水"
+    16388: "喷溅型剧毒药水"
+    16420: "喷溅型剧毒药水 II"
+    16452: "持续的喷溅型剧毒药水"
+    16389: "喷溅型治疗药水"
+    16421: "喷溅型治疗药水 II"
+    16453: "喷溅型治疗药水"
+    16390: "喷溅型夜视药水"
+    16422: "喷溅型夜视药水"
+    16454: "持续的喷溅型夜视药水"
+    16392: "喷溅型虚弱药水"
+    16424: "喷溅型虚弱药水 II"
+    16456: "持续的喷溅型虚弱药水"
+    16393: "喷溅型力量药水"
+    16425: "喷溅型力量药水 II"
+    16457: "持续的喷溅型力量药水"
+    16394: "喷溅型迟缓药水"
+    16426: "喷溅型迟缓药水 II"
+    16458: "持续的喷溅型迟缓药水"
+    16395: "喷溅型跳跃药水"
+    16427: "喷溅型跳跃药水 II"
+    16459: "持续的喷溅型跳跃药水"
+    16396: "喷溅型伤害药水"
+    16428: "喷溅型伤害药水 II"
+    16460: "持续的喷溅型伤害药水"
+    16397: "喷溅型水肺药水"
+    16429: "喷溅型水肺药水"
+    16461: "持续的喷溅型水肺药水"
+    16398: "喷溅型隐形药水"
+    16430: "喷溅型隐形药水"
+    16462: "持续的喷溅型隐形药水"
   GLASS_BOTTLE:
-    0: "Glass Bottle"
+    0: "玻璃瓶"
   SPIDER_EYE:
-    0: "Spider Eye"
+    0: "蜘蛛眼"
   FERMENTED_SPIDER_EYE:
-    0: "Fermented Spider Eye"
+    0: "发酵蜘蛛眼"
   BLAZE_POWDER:
-    0: "Blaze Powder"
+    0: "烈焰粉"
   MAGMA_CREAM:
-    0: "Magma Cream"
+    0: "岩浆膏"
   BREWING_STAND_ITEM:
-    0: "Brewing Stand"
+    0: "酿造台"
   CAULDRON_ITEM:
-    0: "Cauldron"
+    0: "炼药锅"
   EYE_OF_ENDER:
-    0: "Eye of Ender"
+    0: "末影之眼"
   SPECKLED_MELON:
-    0: "Glistering Melon"
+    0: "闪烁的西瓜"
   MONSTER_EGG:
     0: "怪物生成蛋"
     50: "爬行者生成蛋"
