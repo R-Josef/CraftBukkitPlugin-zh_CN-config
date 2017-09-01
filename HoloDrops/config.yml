@@ -135,13 +135,13 @@ item-names:
     7: "粉色郁金香"
     8: "滨菊"
   BROWN_MUSHROOM:
-    0: "Brown Mushroom"
+    0: "褐色蘑菇"
   RED_MUSHROOM:
-    0: "Red Mushroom"
+    0: "红色蘑菇"
   GOLD_BLOCK:
-    0: "Block of Gold"
+    0: "金块"
   IRON_BLOCK:
-    0: "Block of Iron"
+    0: "铁块"
   DOUBLE_STEP:
     0: "Stone Double Slab"
     1: "Sandstone Double Slab"
@@ -813,44 +813,44 @@ item-names:
   NETHER_STALK:
     0: "Nether Wart"
   POTION:
-    0: "Potion"
-    16: "Awkward Potion"
-    8192: "Mundane Potion"
-    8203: "Potion of Leaping (3:00)"
-    8235: "Potion of Leaping II (1:30)"
-    8267: "Potion of Leaping (8:00)"
-    8193: "Potion of Regeneration (0:45)"
-    8257: "Potion of Regeneration (2:00)"
-    8225: "Potion of Regeneration II (0:22)"
-    8289: "Potion of Regeneration II (1:00)"
-    8194: "Potion of Swiftness (3:00)"
-    8258: "Potion of Swiftness (8:00)"
-    8226: "Potion of Swiftness II (1:30)"
-    8195: "Potion of Fire Resistance (3:00)"
-    8227: "Potion of Fire Resistance (3:00)"
-    8259: "Potion of Fire Resistance (8:00)"
-    8196: "Potion of Poison (0:45)"
-    8260: "Potion of Poison (2:00)"
-    8228: "Potion of Poison II (0:22)"
-    8292: "Potion of Poison II (1:00)"
-    8197: "Potion of Healing"
-    8229: "Potion of Healing II"
-    8198: "Potion of Night Vision (3:00)"
-    8262: "Potion of Night Vision (8:00)"
-    8200: "Potion of Weakness (1:30)"
-    8264: "Potion of Weakness (4:00)"
-    8201: "Potion of Strength (3:00)"
-    8265: "Potion of Strength (8:00)"
-    8233: "Potion of Strength II (1:30)"
-    8297: "Potion of Strength II (4:00)"
-    8202: "Potion of Slowness (1:30)"
-    8266: "Potion of Slowness (4:00)"
-    8204: "Potion of Harming"
-    8236: "Potion of Harming II"
-    8205: "Potion of Water Breathing (3:00)"
-    8269: "Potion of Water Breathing (8:00)"
-    8206: "Potion of Invisibility (3:00)"
-    8270: "Potion of Invisibility (8:00)"
+    0: "水瓶"
+    16: "粗制的药水"
+    8192: "平方的药水"
+    8203: "跳跃药水 (3:00)"
+    8235: "跳跃药水 II (1:30)"
+    8267: "跳跃药水 (8:00)"
+    8193: "再生药水 (0:45)"
+    8257: "再生药水 (2:00)"
+    8225: "再生药水 II (0:22)"
+    8289: "再生药水 II (1:00)"
+    8194: "速度药水 (3:00)"
+    8258: "速度药水 (8:00)"
+    8226: "速度药水 II (1:30)"
+    8195: "抗火药水 (3:00)"
+    8227: "抗火药水 (3:00)"
+    8259: "抗火药水 (8:00)"
+    8196: "剧毒药水 (0:45)"
+    8260: "剧毒药水 (2:00)"
+    8228: "剧毒药水 II (0:22)"
+    8292: "剧毒药水 II (1:00)"
+    8197: "治疗药水"
+    8229: "治疗药水 II"
+    8198: "夜视药水 (3:00)"
+    8262: "夜视药水 (8:00)"
+    8200: "虚弱药水 (1:30)"
+    8264: "虚弱药水 (4:00)"
+    8201: "力量药水 (3:00)"
+    8265: "力量药水 (8:00)"
+    8233: "力量药水 II (1:30)"
+    8297: "力量药水 II (4:00)"
+    8202: "力量药水 (1:30)"
+    8266: "力量药水 (4:00)"
+    8204: "伤害药水"
+    8236: "伤害药水 II"
+    8205: "水肺药水 (3:00)"
+    8269: "水肺药水 (8:00)"
+    8206: "隐形药水 (3:00)"
+    8270: "隐形药水 (8:00)"
   SPLASH_POTION:
     0: "Splash Potion"
     16395: "Splash Potion of Leaping"
@@ -1112,223 +1112,223 @@ item-names:
   COOKED_MUTTON:
     0: "Cooked Mutton"
   BANNER:
-    0: "Black Banner"
-    1: "Red Banner"
-    2: "Green Banner"
-    3: "Brown Banner"
-    4: "Blue Banner"
-    5: "Purple Banner"
-    6: "Cyan Banner"
-    7: "Light Gray Banner"
-    8: "Gray Banner"
-    9: "Pink Banner"
-    10: "Lime Banner"
-    11: "Yellow Banner"
-    12: "Light Blue Banner"
-    13: "Magenta Banner"
-    14: "Orange Banner"
-    15: "White Banner"
+    0: "黑色旗帜"
+    1: "红色旗帜"
+    2: "绿色旗帜"
+    3: "棕色旗帜"
+    4: "蓝色旗帜"
+    5: "紫色旗帜"
+    6: "青色旗帜"
+    7: "淡灰色旗帜"
+    8: "灰色旗帜"
+    9: "粉色旗帜"
+    10: "黄绿色旗帜"
+    11: "黄色旗帜"
+    12: "淡蓝色旗帜"
+    13: "品红色旗帜"
+    14: "橙色旗帜"
+    15: "白色旗帜"
   SPRUCE_DOOR_ITEM:
-    0: "Spruce Door"
+    0: "云杉木门"
   BIRCH_DOOR_ITEM:
-    0: "Birch Door"
+    0: "白桦木门"
   JUNGLE_DOOR_ITEM:
-    0: "Jungle Door"
+    0: "丛林木门"
   ACACIA_DOOR_ITEM:
-    0: "Acacia Door"
+    0: "金合欢木门"
   DARK_OAK_DOOR_ITEM:
-    0: "Dark Oak Door"
+    0: "深色橡木门"
   ### 1.9 items  
   BOAT_ACACIA:
-    0: "Acacia Boat"
+    0: "金合欢木船"
   BOAT_BIRCH:
-    0: "Birch Boat"
+    0: "桦木船"
   BOAT_DARK_OAK:
-    0: "Dark Oak Boat"
+    0: "深色橡木船"
   BOAT_JUNGLE:
-    0: "Jungle Boat"
+    0: "丛林木船"
   BOAT_SPRUCE:
-    0: "Spruce Boat"
+    0: "云杉木船"
   END_BRICKS:
-    0: "End Bricks"
+    0: "末地石砖"
   PURPUR_BLOCK:
-    0: "Purpur Block"
+    0: "紫珀块"
   PURPUR_PILLAR:
-    0: "Purpur Pillar"
+    0: "竖纹紫珀块"
   PURPUR_SLAB:
-    0: "Purpur Slab"
+    0: "紫珀块台阶"
   PURPUR_DOUBLE_SLAB:
-    0: "Purpur Double Slab"
+    0: "双紫珀块台阶"
   PURPUR_STAIRS:
-    0: "Purpur Stairs"
+    0: "紫珀楼梯"
   SHIELD:
-    0: "Shield"
+    0: "盾牌"
   ELYTRA:
-    0: "Elytra"
+    0: "鞘翅"
   SPECTRAL_ARROW:
-    0: "Spectral Arrow"
+    0: "光灵箭"
   CHORUS_FRUIT_POPPED:
-    0: "Popped Chorus Fruit"
+    0: "爆裂紫颂果"
   CHORUS_FRUIT:
-    0: "Chorus Fruit"
+    0: "紫颂果"
   CHORUS_FLOWER:
-    0: "Chorus Flower"
+    0: "紫颂花"
   CHORUS_PLANT:
-    0: "Chorus Plant"
+    0: "紫颂植物"
   BEETROOT:
-    0: "Beetroot"
+    0: "甜菜根"
   BEETROOT_SOUP:
-    0: "Beetroot Soup"
+    0: "甜菜汤"
   BEETROOT_SEEDS:
-    0: "Beetroot Seeds"
+    0: "甜菜种子"
   BEETROOT_BLOCK:
-    0: "Beetroot Block"
+    0: "甜菜根块"
   END_CRYSTAL:
-    0: "End Crystal"
+    0: "末影水晶"
   END_ROD:
-    0: "End Rod"
+    0: "末地烛"
   STRUCTURE_BLOCK:
-    0: "Structure Block"
+    0: "结构方块"
   LINGERING_POTION:
-    0: "Lingering Potion"
+    0: "滞留型水瓶"
   TIPPED_ARROW:
-    0: "Tipped Arrow"
+    0: "喷溅之箭"
   DRAGONS_BREATH:
-    0: "Dragon's Breath"
+    0: "龙息"
   ### 1.10 items
   RED_NETHER_BRICK:
-    0: "Red Nether Brick"
+    0: "红色地狱砖"
   STRUCTURE_VOID:
-    0: "Structure Void"
+    0: "结构空位"
   BONE_BLOCK:
-    0: "Bone Block"
+    0: "骨块"
   MAGMA:
-    0: "Magma Block"
+    0: "岩浆块"
   NETHER_WART_BLOCK:
-    0: "Nether Wart Block"
+    0: "地狱疣块"
   ### 1.11 items
   OBSERVER:
-    0: "Observer"
+    0: "侦测器"
   WHITE_SHULKER_BOX:
-    0: "White Shulker Box"
+    0: "白色潜影盒"
   ORANGE_SHULKER_BOX:
-    0: "ORANGE Shulker Box"
+    0: "橙色潜影盒"
   MAGENTA_SHULKER_BOX:
-    0: "Magenta Shulker Box"
+    0: "品红色潜影盒"
   LIGHT_BLUE_SHULKER_BOX:
-    0: "Light Blue Shulker Box"
+    0: "淡蓝色潜影盒"
   YELLOW_SHULKER_BOX:
-    0: "Yellow Shulker Box"
+    0: "黄色潜影盒"
   LIME_SHULKER_BOX:
-    0: "Lime Shulker Box"
+    0: "黄绿色潜影盒"
   PINK_SHULKER_BOX:
-    0: "Pink Shulker Box"
+    0: "粉色潜影盒"
   GRAY_SHULKER_BOX:
-    0: "Gray Shulker Box"
+    0: "灰色潜影盒"
   SILVER_SHULKER_BOX:
-    0: "Light Gray Shulker Box"
+    0: "淡灰色潜影盒"
   CYAN_SHULKER_BOX:
-    0: "Cyan Shulker Box"
+    0: "青色潜影盒"
   PURPLE_SHULKER_BOX:
-    0: "Purple Shulker Box"
+    0: "紫色潜影盒"
   BLUE_SHULKER_BOX:
-    0: "Blue Shulker Box"
+    0: "蓝色潜影盒"
   BROWN_SHULKER_BOX:
-    0: "Brown Shulker Box"
+    0: "棕色潜影盒"
   GREEN_SHULKER_BOX:
-    0: "Green Shulker Box"
+    0: "绿色潜影盒"
   RED_SHULKER_BOX:
-    0: "Red Shulker Box"
+    0: "红色潜影盒"
   BLACK_SHULKER_BOX:
-    0: "Black Shulker Box"
+    0: "黑色潜影盒"
   SHULKER_SHELL:
-    0: "Shulker Shell"
+    0: "潜影壳"
   TOTEM:
-    0: "Totem of Undying"
+    0: "不死图腾"
   ### 1.12 items
   IRON_NUGGET:
-    0: "Iron Nugget"
+    0: "铁粒"
   CONCRETE:
-    0: "White Concrete"
-    1: "Orange Concrete"
-    2: "Magenta Concrete"
-    3: "Light Blue Concrete"
-    4: "Yellow Concrete"
-    5: "Lime Concrete"
-    6: "Pink Concrete"
-    7: "Gray Concrete"
-    8: "Light Gray Concrete"
-    9: "Cyan Concrete"
-    10: "Purple Concrete"
-    11: "Blue Concrete"
-    12: "Brown Concrete"
-    13: "Green Concrete"
-    14: "Red Concrete"
-    15: "Black Concrete"
+    0: "白色混凝土"
+    1: "橙色混凝土"
+    2: "品红色混凝土"
+    3: "淡蓝色混凝土"
+    4: "黄色混凝土"
+    5: "黄绿色混凝土"
+    6: "粉色混凝土"
+    7: "灰色混凝土"
+    8: "淡灰色混凝土"
+    9: "青色混凝土"
+    10: "紫色混凝土"
+    11: "蓝色混凝土"
+    12: "棕色混凝土"
+    13: "绿色混凝土"
+    14: "红色混凝土"
+    15: "黑色混凝土"
   CONCRETE_POWDER:
-    0: "White Concrete Powder"
-    1: "Orange Concrete Powder"
-    2: "Magenta Concrete Powder"
-    3: "Light Blue Concrete Powder"
-    4: "Yellow Concrete Powder"
-    5: "Lime Concrete Powder"
-    6: "Pink Concrete Powder"
-    7: "Gray Concrete Powder"
-    8: "Light Gray Concrete Powder"
-    9: "Cyan Concrete Powder"
-    10: "Purple Concrete Powder"
-    11: "Blue Concrete Powder"
-    12: "Brown Concrete Powder"
-    13: "Green Concrete Powder"
-    14: "Red Concrete Powder"
-    15: "Black Concrete Powder"
+    0: "白色混凝土粉末"
+    1: "橙色混凝土粉末"
+    2: "品红色混凝土粉末"
+    3: "淡蓝色混凝土粉末"
+    4: "黄色混凝土粉末"
+    5: "黄绿色混凝土粉末"
+    6: "粉色混凝土粉末"
+    7: "灰色混凝土粉末"
+    8: "淡灰色混凝土粉末"
+    9: "青色混凝土粉末"
+    10: "紫色混凝土粉末"
+    11: "蓝色混凝土粉末"
+    12: "棕色混凝土粉末"
+    13: "绿色混凝土粉末"
+    14: "红色混凝土粉末"
+    15: "黑色混凝土粉末"
   BED:
-    0: "White Bed"
-    1: "Orange Bed"
-    2: "Magenta Bed"
-    3: "Light Blue Bed"
-    4: "Yellow Bed"
-    5: "Lime Bed"
-    6: "Pink Bed"
-    7: "Gray Bed"
-    8: "Light Gray Bed"
-    9: "Cyan Bed"
-    10: "Purple Bed"
-    11: "Blue Bed"
-    12: "Brown Bed"
-    13: "Green Bed"
-    14: "Red Bed"
-    15: "Black Bed"
+    0: "白色床"
+    1: "橙色床"
+    2: "品红色床"
+    3: "淡蓝色床"
+    4: "黄色床"
+    5: "黄绿色床"
+    6: "粉色床"
+    7: "灰色床"
+    8: "淡灰色床"
+    9: "青色床"
+    10: "紫色床"
+    11: "蓝色床"
+    12: "棕色床"
+    13: "绿色床"
+    14: "红色床"
+    15: "黑色床"
   WHITE_GLAZED_TERRACOTTA:
-    0: "White Glazed Terracotta"
+    0: "白色带釉陶瓷"
   ORANGE_GLAZED_TERRACOTTA:
-    0: "ORANGE Glazed Terracotta"
+    0: "橙色带釉陶瓷"
   MAGENTA_GLAZED_TERRACOTTA:
-    0: "Magenta Glazed Terracotta"
+    0: "品红色带釉陶瓷"
   LIGHT_BLUE_GLAZED_TERRACOTTA:
-    0: "Light Blue Glazed Terracotta"
+    0: "淡蓝色带釉陶瓷"
   YELLOW_GLAZED_TERRACOTTA:
-    0: "Yellow Glazed Terracotta"
+    0: "黄色带釉陶瓷"
   LIME_GLAZED_TERRACOTTA:
-    0: "Lime Glazed Terracotta"
+    0: "黄绿色带釉陶瓷"
   PINK_GLAZED_TERRACOTTA:
-    0: "Pink Glazed Terracotta"
+    0: "粉色带釉陶瓷"
   GRAY_GLAZED_TERRACOTTA:
-    0: "Gray Glazed Terracotta"
+    0: "灰色带釉陶瓷"
   SILVER_GLAZED_TERRACOTTA:
-    0: "Light Gray Glazed Terracotta"
+    0: "淡灰色带釉陶瓷"
   CYAN_GLAZED_TERRACOTTA:
-    0: "Cyan Glazed Terracotta"
+    0: "青色带釉陶瓷"
   PURPLE_GLAZED_TERRACOTTA:
-    0: "Purple Glazed Terracotta"
+    0: "紫色带釉陶瓷"
   BLUE_GLAZED_TERRACOTTA:
-    0: "Blue Glazed Terracotta"
+    0: "蓝色带釉陶瓷"
   BROWN_GLAZED_TERRACOTTA:
-    0: "Brown Glazed Terracotta"
+    0: "棕色带釉陶瓷"
   GREEN_GLAZED_TERRACOTTA:
-    0: "Green Glazed Terracotta"
+    0: "绿色带釉陶瓷"
   RED_GLAZED_TERRACOTTA:
-    0: "Red Glazed Terracotta"
+    0: "红色带釉陶瓷"
   BLACK_GLAZED_TERRACOTTA:
-    0: "Black Glazed Terracotta"
+    0: "黑色带釉陶瓷"
   
