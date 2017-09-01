@@ -143,39 +143,39 @@ item-names:
   IRON_BLOCK:
     0: "铁块"
   DOUBLE_STEP:
-    0: "Stone Double Slab"
-    1: "Sandstone Double Slab"
-    2: "Wooden Double Slab"
-    3: "Cobblestone Double Slab"
-    4: "Brick Double Slab"
-    5: "Stone Brick Double Slab"
-    6: "Nether Brick Double Slab"
-    7: "Quartz Double Slab"
-    8: "Smooth Stone Double Slab"
-    9: "Smooth Sandstone Double Slab"
+    0: "双石台阶"
+    1: "双砂岩台阶"
+    2: "双木台阶"
+    3: "双圆石台阶"
+    4: "双砖台阶"
+    5: "双石砖台阶"
+    6: "双地狱石砖台阶"
+    7: "双石英台阶"
+    8: "双平滑石台阶"
+    9: "双平滑砂岩台阶"
   STEP:
-    0: "Stone Slab"
-    1: "Sandstone Slab"
-    2: "Wooden Stone Slab"
-    3: "Cobblestone Slab"
-    4: "Brick Slab"
-    5: "Stone Brick Slab"
-    6: "Nether Brick Slab"
-    7: "Quartz Slab"
+    0: "石台阶"
+    1: "砂岩台阶"
+    2: "木石台阶"
+    3: "原石台阶"
+    4: "砖台阶"
+    5: "石砖台阶"
+    6: "地狱石砖台阶"
+    7: "石英台阶"
   BRICK:
-    0: "Bricks"
+    0: "红砖"
   TNT:
     0: "TNT"
   BOOKSHELF:
-    0: "Bookshelf"
+    0: "书架"
   MOSSY_COBBLESTONE:
-    0: "Moss Stone"
+    0: "苔石"
   OBSIDIAN:
-    0: "Obsidian"
+    0: "黑曜石"
   TORCH:
-    0: "Torch"
+    0: "火把"
   FIRE:
-    0: "Fire"
+    0: "火"
   MOB_SPAWNER:
     0: "刷怪笼"
     50: "爬行者刷怪笼"
@@ -204,213 +204,213 @@ item-names:
     99: "铁傀儡刷怪笼"
     120: "村民刷怪笼"
   WOOD_STAIRS:
-    0: "Oak Plank Stairs"
+    0: "橡木楼梯"
   CHEST:
-    0: "Chest"
+    0: "箱子"
   REDSTONE_WIRE:
-    0: "Redstone Wire"
+    0: "红石电路"
   DIAMOND_ORE:
-    0: "Diamond Ore"
+    0: "钻石矿石"
   DIAMOND_BLOCK:
-    0: "Block of Diamond"
+    0: "钻石块"
   WORKBENCH:
-    0: "Crafting Table"
+    0: "工作台"
   CROPS:
-    0: "Wheat"
+    0: "小麦"
   SOIL:
-    0: "Farmland"
+    0: "耕地"
   FURNACE:
-    0: "Furnace"
+    0: "熔炉"
   BURNING_FURNACE:
-    0: "Burning Furnace"
+    0: "熔炉"
   SIGN_POST:
-    0: "Sign Post"
+    0: "告示牌"
   WOODEN_DOOR:
-    0: "Wooden Door"
+    0: "木门"
   LADDER:
-    0: "Ladder"
+    0: "梯子"
   RAILS:
-    0: "Rails"
+    0: "铁轨"
   COBBLESTONE_STAIRS:
-    0: "Cobblestone Stairs"
+    0: "圆石楼梯"
   WALL_SIGN:
-    0: "Wall Sign"
+    0: "告示牌"
   LEVER:
-    0: "Lever"
+    0: "拉杆"
   STONE_PLATE:
-    0: "Stone Pressure Plate"
+    0: "石质压力板"
   IRON_DOOR_BLOCK:
-    0: "Iron Door"
+    0: "铁门"
   WOOD_PLATE:
-    0: "Wooden Pressure Plate"
+    0: "木制压力板"
   REDSTONE_ORE:
-    0: "Redstone Ore"
+    0: "红石矿石"
   GLOWING_REDSTONE_ORE:
-    0: "Glowing Redstone Ore"
+    0: "萤石矿石"
   REDSTONE_TORCH_OFF:
-    0: "Redstone Torch (off)"
+    0: "红石火把 (关)"
   REDSTONE_TORCH_ON:
-    0: "Redstone Torch (on)"
+    0: "红石火把 (开)"
   STONE_BUTTON:
-    0: "Button"
+    0: "按钮"
   SNOW:
-    0: "Snow"
+    0: "雪"
   ICE:
-    0: "Ice"
+    0: "冰"
   SNOW_BLOCK:
-    0: "Snow Block"
+    0: "雪块"
   CACTUS:
-    0: "Cactus"
+    0: "仙人掌"
   CLAY:
-    0: "Clay Block"
+    0: "粘土块"
   SUGAR_CANE_BLOCK:
-    0: "Sugar Cane"
+    0: "甘蔗"
   JUKEBOX:
-    0: "Jukebox"
+    0: "唱片机"
   FENCE:
-    0: "Fence"
+    0: "栅栏"
   PUMPKIN:
-    0: "Pumpkin"
+    0: "南瓜"
   NETHERRACK:
-    0: "Netherrack"
+    0: "地狱岩"
   SOUL_SAND:
-    0: "Soul Sand"
+    0: "灵魂沙"
   GLOWSTONE:
-    0: "Glowstone Block"
+    0: "萤石"
   PORTAL:
-    0: "Portal"
+    0: "传送门"
   JACK_O_LANTERN:
-    0: "Jack o'Lantern"
+    0: "南瓜灯"
   CAKE_BLOCK:
-    0: "Cake Block"
+    0: "蛋糕块"
   DIODE_BLOCK_OFF:
-    0: "Redstone Repeater (off)"
+    0: "红石中继器 (关)"
   DIODE_BLOCK_ON:
-    0: "Redstone Repeater (on)"
+    0: "红石中继器 (开)"
   STAINED_GLASS:
-    0: "White Stained Glass"
-    1: "Orange Stained Glass"
-    2: "Magenta Stained Glass"
-    3: "Light Blue Stained Glass"
-    4: "Yellow Stained Glass"
-    5: "Lime Stained Glass"
-    6: "Pink Stained Glass"
-    7: "Gray Stained Glass"
-    8: "Light Gray Stained Glass"
-    9: "Cyan Stained Glass"
-    10: "Purple Stained Glass"
-    11: "Blue Stained Glass"
-    12: "Brown Stained Glass"
-    13: "Green Stained Glass"
-    14: "Red Stained Glass"
-    15: "Black Stained Glass"
+    0: "白色染色玻璃"
+    1: "橙色染色玻璃"
+    2: "品红色染色玻璃"
+    3: "淡蓝色染色玻璃"
+    4: "黄色染色玻璃"
+    5: "黄绿色染色玻璃"
+    6: "粉色染色玻璃"
+    7: "灰色染色玻璃"
+    8: "淡灰色染色玻璃"
+    9: "灰色染色玻璃"
+    10: "紫色染色玻璃"
+    11: "蓝色染色玻璃"
+    12: "棕色染色玻璃"
+    13: "绿色染色玻璃"
+    14: "红色染色玻璃"
+    15: "黑色染色玻璃"
   TRAP_DOOR:
-    0: "Trapdoor"
+    0: "活板门"
   MONSTER_EGGS:
-    0: "Stone (Silverfish)"
-    1: "Cobblestone (Silverfish)"
-    2: "Stone Brick (Silverfish)"
-    3: "Mossy Stone Brick (Silverfish)"
-    4: "Cracked Stone Brick (Silverfish)"
-    5: "Chiseled Stone Brick (Silverfish)"
+    0: "石头怪物蛋"
+    1: "圆石怪物蛋"
+    2: "石砖怪物蛋"
+    3: "苔石砖怪物蛋"
+    4: "裂石砖怪物蛋"
+    5: "錾制石砖怪物蛋"
   SMOOTH_BRICK:
-    0: "Stone Bricks"
-    1: "Mossy Stone Bricks"
-    2: "Cracked Stone Bricks"
-    3: "Chiseled Stone Bricks"
+    0: "石砖"
+    1: "苔石砖"
+    2: "裂石砖"
+    3: "錾制石砖"
   HUGE_MUSHROOM_1:
-    0: "Huge Brown Mushroom"
+    0: "蘑菇"
   HUGE_MUSHROOM_2:
-    0: "Huge Red Mushroom"
+    0: "蘑菇"
   IRON_FENCE:
-    0: "Iron Bars"
+    0: "铁栏杆"
   THIN_GLASS:
-    0: "Glass Pane"
+    0: "玻璃板"
   MELON_BLOCK:
-    0: "Melon"
+    0: "西瓜"
   PUMPKIN_STEM:
-    0: "Pumpkin Stem"
+    0: "南瓜藤"
   MELON_STEM:
-    0: "Melon Stem"
+    0: "西瓜藤"
   VINE:
-    0: "Vines"
+    0: "藤曼"
   FENCE_GATE:
-    0: "Fence Gate"
+    0: "栅栏门"
   BRICK_STAIRS:
-    0: "Brick Stairs"
+    0: "砖楼梯"
   SMOOTH_STAIRS:
-    0: "Stone Brick Stairs"
+    0: "石砖楼梯"
   MYCEL:
-    0: "Mycelium"
+    0: "M菌丝"
   WATER_LILY:
-    0: "Lily Pad"
+    0: "睡莲"
   NETHER_BRICK:
-    0: "Nether Brick"
+    0: "地狱砖"
   NETHER_FENCE:
-    0: "Nether Brick Fence"
+    0: "地狱砖栅栏"
   NETHER_BRICK_STAIRS:
-    0: "Nether Brick Stairs"
+    0: "地狱砖楼梯"
   NETHER_WARTS:
-    0: "Nether Wart"
+    0: "地狱疣"
   ENCHANTMENT_TABLE:
-    0: "Enchantment Table"
+    0: "附魔台"
   BREWING_STAND:
-    0: "Brewing Stand"
+    0: "酿造台"
   CAULDRON:
-    0: "Cauldron"
+    0: "炼药锅"
   ENDER_PORTAL:
-    0: "End Portal"
+    0: "末影珍珠"
   ENDER_PORTAL_FRAME:
-    0: "End Portal Frame"
+    0: "末地传送门"
   ENDER_STONE:
-    0: "End Stone"
+    0: "末地石"
   DRAGON_EGG:
-    0: "Dragon Egg"
+    0: "龙蛋"
   REDSTONE_LAMP_OFF:
-    0: "Redstone Lamp (off)"
+    0: "红石灯 (关)"
   REDSTONE_LAMP_ON:
-    0: "Redstone Lamp (on)"
+    0: "红石灯 (开)"
   WOOD_DOUBLE_STEP:
-    0: "Oak Plank Double Slab"
-    1: "Pine Plank Double Slab"
-    2: "Birch Plank Double Slab"
-    3: "Jungle Plank Double Slab"
-    4: "Acacia Plank Double Slab"
-    5: "Dark Oak Plank Double Slab"
+    0: "双橡木台阶"
+    1: "双云杉木台阶"
+    2: "双白桦木台阶"
+    3: "双丛林木台阶"
+    4: "双金合欢木台阶"
+    5: "双深色橡木台阶"
   WOOD_STEP:
-    0: "Oak Plank Slab"
-    1: "Pine Plank Slab"
-    2: "Birch Plank Slab"
-    3: "Jungle Plank Slab"
-    4: "Acacia Plank Slab"
-    5: "Dark Oak Plank Slab"
+    0: "橡木台阶"
+    1: "云杉木台阶"
+    2: "白桦木台阶"
+    3: "丛林木台阶"
+    4: "金合欢木台阶"
+    5: "深色橡木台阶"
   COCOA:
-    0: "Cocoa Plant"
+    0: "可可"
   SANDSTONE_STAIRS:
-    0: "Sandstone Stairs"
+    0: "砂岩楼梯"
   EMERALD_ORE:
-    0: "Emerald Ore"
+    0: "绿宝石矿石"
   ENDER_CHEST:
-    0: "Ender Chest"
+    0: "末影箱"
   TRIPWIRE_HOOK:
-    0: "Tripwire Hook"
+    0: "绊线钩"
   TRIPWIRE:
-    0: "Tripwire"
+    0: "绊线钩"
   EMERALD_BLOCK:
-    0: "Block of Emerald"
+    0: "绿宝石块"
   SPRUCE_WOOD_STAIRS:
-    0: "Pine Plank Stairs"
+    0: "云杉木楼梯"
   BIRCH_WOOD_STAIRS:
-    0: "Birch Plank Stairs"
+    0: "白桦木楼梯"
   JUNGLE_WOOD_STAIRS:
-    0: "Jungle Plank Stairs"
+    0: "丛林木楼梯"
   COMMAND:
-    0: "Command Block"
+    0: "命令方块"
   BEACON:
-    0: "Beacon"
+    0: "信标"
   COBBLE_WALL:
-    0: "Cobblestone Wall"
-    1: "Mossy Cobblestone Wall"
+    0: "圆石墙"
+    1: "苔石墙"
   FLOWER_POT:
     0: "花盆"
     1: "玫瑰花盆"
