@@ -914,203 +914,203 @@ item-names:
   SPECKLED_MELON:
     0: "Glistering Melon"
   MONSTER_EGG:
-    0: "Spawn Egg"
-    50: "Creeper Spawn Egg"
-    51: "Skeleton Spawn Egg"
-    52: "Spider Spawn Egg"
-    54: "Zombie Spawn Egg"
-    55: "Slime Spawn Egg"
-    56: "Ghast Spawn Egg"
-    57: "Zombie Pigman Spawn Egg"
-    58: "Enderman Spawn Egg"
-    59: "Cave Spider Spawn Egg"
-    60: "Silverfish Spawn Egg"
-    61: "Blaze Spawn Egg"
-    62: "Magma Cube Spawn Egg"
-    63: "Ender Dragon Spawn Egg"
-    64: "Wither Spawn Egg"
-    65: "Bat Spawn Egg"
-    66: "Witch Spawn Egg"
-    90: "Pig Spawn Egg"
-    91: "Sheep Spawn Egg"
-    92: "Cow Spawn Egg"
-    93: "Chicken Spawn Egg"
-    94: "Squid Spawn Egg"
-    95: "Wolf Spawn Egg"
-    96: "Mooshroom Spawn Egg"
-    98: "Ocelot Spawn Egg"
-    99: "Iron Golem Spawn Egg"
-    100: "Horse Spawn Egg"
-    120: "Villager Spawn Egg"
+    0: "怪物生成蛋"
+    50: "爬行者生成蛋"
+    51: "骷髅生成蛋"
+    52: "蜘蛛生成蛋"
+    54: "僵尸生成蛋"
+    55: "史莱姆生成蛋"
+    56: "恶魂生成蛋"
+    57: "僵尸猪人生成蛋"
+    58: "末影人生成蛋"
+    59: "洞穴蜘蛛生成蛋"
+    60: "蠹虫生成蛋"
+    61: "烈焰人生成蛋"
+    62: "岩浆怪生成蛋
+    63: "末影龙生成蛋"
+    64: "凋零生成蛋"
+    65: "蝙蝠生成蛋"
+    66: "女巫生成蛋"
+    90: "猪生成蛋"
+    91: "羊生成蛋"
+    92: "牛生成蛋"
+    93: "鸡生成蛋"
+    94: "鱿鱼生成蛋"
+    95: "狼生成蛋"
+    96: "哞菇生成蛋"
+    98: "豹猫生成蛋"
+    99: "铁傀儡生成蛋"
+    100: "马生成蛋"
+    120: "村民生成蛋"
   EXP_BOTTLE:
-    0: "Bottle o' Enchanting"
+    0: "附魔之瓶"
   FIREBALL:
-    0: "Fire Charge"
+    0: "火焰弹"
   BOOK_AND_QUILL:
-    0: "Book and Quill"
+    0: "书与笔"
   WRITTEN_BOOK:
-    0: "Written Book"
+    0: "成书"
   EMERALD:
-    0: "Emerald"
+    0: "绿宝石"
   ITEM_FRAME:
-    0: "Item Frame"
+    0: "物品展示框"
   FLOWER_POT_ITEM:
-    0: "Flower Pot"
+    0: "花盆"
   CARROT_ITEM:
-    0: "Carrot"
+    0: "胡萝卜"
   POTATO_ITEM:
-    0: "Potato"
+    0: "土豆"
   BAKED_POTATO:
-    0: "Baked Potato"
-    1: "Baked Potato"
+    0: "烤土豆"
+    1: "烤土豆"
   POISONOUS_POTATO:
-    0: "Poisonous Potato"
+    0: "毒土豆"
   EMPTY_MAP:
-    0: "Empty Map"
+    0: "空地图"
   GOLDEN_CARROT:
-    0: "Golden Carrot"
+    0: "金胡萝卜"
   SKULL_ITEM:
-    0: "Skeleton Head"
-    1: "Wither Skeleton Head"
-    2: "Zombie Head"
-    3: "Human Head"
-    4: "Creeper Head"
-    5: "Dragon Head"
+    0: "骷髅头颅"
+    1: "凋零骷髅头颅"
+    2: "僵尸头颅"
+    3: "头"
+    4: "爬行者头颅"
+    5: "龙首"
   CARROT_STICK:
-    0: "Carrot on a Stick"
+    0: "萝卜钓竿"
   NETHER_STAR:
-    0: "Nether Star"
+    0: "下界之星"
   PUMPKIN_PIE:
-    0: "Pumpkin Pie"
+    0: "南瓜派"
   FIREWORK:
-    0: "Firework Rocket"
+    0: "烟花火箭"
   FIREWORK_CHARGE:
-    0: "Firework Star"
+    0: "烟火之星"
   ENCHANTED_BOOK:
-    0: "Enchanted Book"
+    0: "附魔书"
   REDSTONE_COMPARATOR:
-    0: "Redstone Comparator"
+    0: "红石比较器"
   NETHER_BRICK_ITEM:
-    0: "Nether Brick"
+    0: "地狱砖"
   QUARTZ:
-    0: "Nether Quartz"
+    0: "下界石英"
   EXPLOSIVE_MINECART:
-    0: "Minecart with TNT"
+    0: "TNT矿车"
   HOPPER_MINECART:
-    0: "Minecart with Hopper"
+    0: "漏斗矿车"
   IRON_BARDING:
-    0: "Iron Horse Armor"
+    0: "铁马铠"
   GOLD_BARDING:
-    0: "Gold Horse Armor"
+    0: "金马铠"
   DIAMOND_BARDING:
-    0: "Diamond Horse Armor"
+    0: "钻石马铠"
   LEASH:
-    0: "Lead"
+    0: "拴绳"
   NAME_TAG:
-    0: "Name Tag"
+    0: "命名牌"
   COMMAND_MINECART:
-    0: "Minecart with Command Block"
+    0: "命令方块矿车"
   GOLD_RECORD:
-    0: "13 Disc"
+    0: "13唱片"
   GREEN_RECORD:
-    0: "Cat Disc"
+    0: "Cat唱片"
   RECORD_3:
-    0: "Blocks Disc"
+    0: "Blocks唱片"
   RECORD_4:
-    0: "Chirp Disc"
+    0: "Chirp唱片"
   RECORD_5:
-    0: "Far Disc"
+    0: "Far唱片"
   RECORD_6:
-    0: "Mall Disc"
+    0: "Mall唱片"
   RECORD_7:
-    0: "Mellohi Disc"
+    0: "Mellohi唱片"
   RECORD_8:
-    0: "Stal Disc"
+    0: "Stal唱片"
   RECORD_9:
-    0: "Strad Disc"
+    0: "Strad唱片"
   RECORD_10:
-    0: "Ward Disc"
+    0: "Ward唱片"
   RECORD_11:
-    0: "11 Disc"
+    0: "11唱片"
   RECORD_12:
-    0: "Wait Disc"
+    0: "Wait唱片"
   ### 1.8 items
   SLIME_BLOCK:
-    0: "Slime Block"
+    0: "史莱姆块"
   BARRIER:
-    0: "Barrier"
+    0: "屏障"
   STANDING_BANNER:
-    0: "Banner"
+    0: "旗帜"
   WALL_BANNER:
-    0: "Banner"
+    0: "旗帜"
   IRON_TRAPDOOR:
-    0: "Iron Trapdoor"
+    0: "铁活板门"
   PRISMARINE:
-    0: "Prismarine"
+    0: "海晶石"
   SEA_LANTERN:
-    0: "Sea Lantern"
+    0: "海晶灯"
   DAYLIGHT_DETECTOR_INVERTED:
-    0: "Daylight Sensor"
+    0: "阳光传感器"
   RED_SANDSTONE:
-    0: "Red Sandstone"
-    1: "Chiseled Red Sandstone"
-    2: "Smooth Red Sandstone"
+    0: "红砂岩"
+    1: "錾制红砂岩"
+    2: "平滑红砂岩"
   RED_SANDSTONE_STAIRS:
-    0: "Red Sandstone Stairs"
+    0: "红砂岩楼梯"
   DOUBLE_STONE_SLAB2:
-    0: "Double Red Sandstone Slab"
+    0: "双红砂岩台阶"
   STONE_SLAB2:
-    0: "Red Sandstone Slab"
+    0: "红砂岩台阶"
   SPRUCE_FENCE_GATE:
-    0: "Spruce Fence Gate"
+    0: "云杉木栅栏门"
   BIRCH_FENCE_GATE:
-    0: "Birch Fence Gate"
+    0: "白桦木栅栏门"
   JUNGLE_FENCE_GATE:
-    0: "Jungle Fence Gate"
+    0: "丛林木栅栏门"
   DARK_OAK_FENCE_GATE:
-    0: "Dark Oak Fence Gate"
+    0: "深色橡木栅栏门"
   ACACIA_FENCE_GATE:
-    0: "Acacia Fence Gate"
+    0: "金合欢栅栏门"
   SPRUCE_FENCE:
-    0: "Spruce Fence"
+    0: "云杉木栅栏"
   BIRCH_FENCE:
-    0: "Birch Fence"
+    0: "白桦木栅栏"
   JUNGLE_FENCE:
-    0: "Jungle Fence"
+    0: "丛林木栅栏"
   DARK_OAK_FENCE:
-    0: "Dark Oak Fence"
+    0: "深色橡木栅栏"
   ACACIA_FENCE:
-    0: "Acacia Fence"
+    0: "金合欢栅栏"
   SPRUCE_DOOR:
-    0: "Spruce Door"
+    0: "云杉木门"
   BIRCH_DOOR:
-    0: "Birch Door"
+    0: "白桦木门"
   JUNGLE_DOOR:
-    0: "Jungle Door"
+    0: "丛林木门"
   ACACIA_DOOR:
-    0: "Acacia Door"
+    0: "金合欢木门"
   DARK_OAK_DOOR:
-    0: "Dark Oak Door"
+    0: "深色橡木门"
   PRISMARINE_SHARD:
-    0: "Prismarine Shard"
+    0: "海晶碎片"
   PRISMARINE_CRYSTALS:
-    0: "Prismarine Crystals"
+    0: "海晶沙砾"
   RABBIT:
-    0: "Raw Rabbit"
+    0: "生兔肉"
   COOKED_RABBIT:
-    0: "Cooked Rabbit"
+    0: "熟兔肉"
   RABBIT_STEW:
-    0: "Rabbit Stew"
+    0: "兔肉煲"
   RABBIT_FOOT:
-    0: "Rabbit's Foot"
+    0: "兔子腿"
   RABBIT_HIDE:
-    0: "Rabbit Hide"
+    0: "兔子皮"
   ARMOR_STAND:
-    0: "Armor Stand"
+    0: "盔甲架"
   MUTTON:
-    0: "Raw Mutton"
+    0: "生羊肉"
   COOKED_MUTTON:
-    0: "Cooked Mutton"
+    0: "熟羊肉"
   BANNER:
     0: "黑色旗帜"
     1: "红色旗帜"
