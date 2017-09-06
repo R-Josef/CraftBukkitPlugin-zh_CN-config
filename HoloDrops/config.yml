@@ -55,6 +55,7 @@ item-names:
     0: "金矿石"
   IRON_ORE:
     0: "铁矿石"
+  COAL_ORE:
     0: "煤矿石"
   LOG:
     0: "橡木"
