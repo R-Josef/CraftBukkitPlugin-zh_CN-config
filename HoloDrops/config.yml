@@ -43,9 +43,9 @@ item-names:
   STATIONARY_WATER:
     0: "流动的水"
   LAVA:
-    0: "岩浆"
+    0: "熔岩"
   STATIONARY_LAVA:
-    0: "流动的岩浆"
+    0: "流动的熔岩"
   SAND:
     0: "沙子"
     1: "红沙"
@@ -704,7 +704,7 @@ item-names:
   WATER_BUCKET:
     0: "水桶"
   LAVA_BUCKET:
-    0: "岩浆桶"
+    0: "熔岩桶"
   MINECART:
     0: "矿车"
   SADDLE:
