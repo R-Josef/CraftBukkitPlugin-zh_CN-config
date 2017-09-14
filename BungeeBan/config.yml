@@ -1,0 +1,32 @@
+# 欢迎来到BungeeBan的配置文件.
+# 此配置文件包含此插件非常重要的设置.
+# 如果你想更改消息, 请编辑 messages.yml.
+# 支持与帮助: Skype: VinciPlayz Email: luca@vinciguerra.co
+sql:
+  driver: 'SQLITE'
+  sqlite:
+    filename: 'plugins/BungeeBan/bungeeban.db'
+  mysql:
+    hostname: '127.0.0.1'
+    port: '3306'
+    username: 'bb'
+    password: ''
+    database: 'bb'
+general:
+  asyncbancheck: true
+  permissions:
+    ban: 'lucavinci.bungeeban.ban'
+    tempban: 'lucavinci.bungeeban.tempban'
+    unban: 'lucavinci.bungeeban.unban'
+    ban-broadcast: 'lucavinci.bungeeban.banbroadcast'
+    mute: 'lucavinci.bungeeban.mute'
+    tempmute: 'lucavinci.bungeeban.tempmute'
+    unmute: 'lucavinci.bungeeban.unmute'
+    mute-broadcast: 'lucavinci.bungeeban.mutebroadcast'
+    kick: 'lucavinci.bungeeban.kick'
+    kick-broadcast: 'lucavinci.bungeeban.kickbroadcast'
+    check: 'lucavinci.bungeeban.check'
+    exempt:
+      ban: 'lucavinci.bungeeban.ban.exempt'
+      mute: 'lucavinci.bungeeban.mute.exempt'
+      kick: 'lucavinci.bungeeban.kick.exempt'
