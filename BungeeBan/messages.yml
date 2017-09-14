@@ -1,0 +1,85 @@
+# 欢迎来到BungeeBan的消息配置文件.
+# 这些消息非常明了. 你可以使用 '&' 颜色代码.
+prefix: '&8[&6BungeeBan&8] &r'
+remainingtime: '%DAYS% 天, %HOURS% 小时, %MINUTES% 分钟, %SECS% 秒'
+permanenttime: '永久'
+simpledateformat: 'dd.MM.yyyy HH:mm:ss'
+errors:
+  playernotfound: '&c玩家 &e%PLAYERNAME% &c无法在数据库中找到.'
+  notbanned: '&c玩家 &e%PLAYERNAME% &c没有被禁封.'
+  internalerror: '&c内部错误: &e%ERROR%&c.'
+  notonline: '&c玩家 &e%PLAYERNAME% &c不在线.'
+  nopermissions: '&c你不被允许这样做.'
+  unknowntimeunit: '&c时间单位 &e%TIMEUNIT% &c无法识别!'
+commands:
+  ban:
+    syntax: '&3用法: &e/ban <玩家> <原因>'
+    success: '&a你成功禁封了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &c已经被 &e%BANNEDBY% &c禁封&c.'
+    - '&c原因: &e%REASON%'
+    - '&c范围: &e%LENGTH%'
+  tempban:
+    syntax: '&3用法: &e/tempban <玩家> <时间> <时间单位> <原因>'
+    success: '&a你成功禁封了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &c已被 &e%BANNEDBY% &c禁封&c.'
+    - '&c原因: &e%REASON%'
+    - '&c范围: &e%LENGTH%'
+  unban:
+    syntax: '&3用法: &e/unban <玩家>'
+    success: '&a你成功解封了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &已被 &e%UNBANNEDBY% &c解封&c.'
+  mute:
+    syntax: '&3用法: &e/mute <玩家> <原因>'
+    success: '&a你成功禁言了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &已被 &e%MUTEDBY% &c禁言&c.'
+    - '&c原因: &e%REASON%'
+    - '&c范围: &e%LENGTH%'
+  tempmute:
+    syntax: '&3用法: &e/tempmute <玩家> <时间> <时间单位> <原因>'
+    success: '&a你成功禁言了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &已被 &e%MUTEDBY% &c禁言&c.'
+    - '&c原因: &e%REASON%'
+    - '&c范围: &e%LENGTH%'
+  unmute:
+    syntax: '&3用法: &e/unban <玩家>'
+    success: '&a你成功解除禁言了 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &c已被 &e%UNMUTEDBY% &c解封&c.'
+  kick:
+    syntax: '&3用法: &e/kick <玩家> <原因>'
+    success: '&a你成功踢出了玩家 &e%PLAYER%&a.'
+    broadcast:
+    - '&c玩家 &e%PLAYER% &c已被 &e%KICKEDBY% &c踢出&c.'
+    - '&c原因: &e%REASON%'
+  check:
+    syntax: '&3用法: &e/check <玩家>'
+    info:
+    - '&3玩家名: &e%PLAYERNAME%'
+    - '&3UUID: &e%UUID%'
+    - '&3最后加入: &e%LASTJOIN%'
+    - '&3已禁封: &e%ISBANNED%'
+    - '&3禁封原因: &e%BANREASON%'
+    - '&3被谁禁封: &e%BANNEDBY%'
+    - '&3禁言: &e%ISMUTED%'
+    - '&3禁言原因: &e%MUTEREASON%'
+    - '&3被谁禁言: &e%MUTEDBY%'
+messages:
+  ban:
+  - '&c你已被此服务器禁封.'
+  - '&c处理人: &e%BANNEDBY%'
+  - '&c原因: &e%REASON%'
+  - '&c剩余时间: &e%REMAININGTIME%'
+  kick:
+  - '&c你已被此服务器踢出.'
+  - '&c处理人: &e%KICKEDBY%'
+  - '&c原因: &e%REASON%'
+  mute:
+  - '&c你目前已被禁言.'
+  - '&c处理人: &e%MUTEDBY%'
+  - '&c原因: &e%REASON%'
+  - '&c剩余时间: &e%REMAININGTIME%'
