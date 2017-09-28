@@ -55,6 +55,8 @@ item-names:
     0: "金矿石"
   IRON_ORE:
     0: "铁矿石"
+  COAL_ORE:
+    0: "煤矿石"
   LOG:
     0: "橡木"
     1: "云杉木"
@@ -72,8 +74,6 @@ item-names:
     0: "玻璃"
   LAPIS_ORE:
     0: "青金石矿"
-  COAL_ORE:
-    0: "煤矿"
   LAPIS_BLOCK:
     0: "青金石块"
   DISPENSER:
